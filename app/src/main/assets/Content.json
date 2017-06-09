@@ -1,0 +1,28 @@
+{
+  "studentdetails": [
+    {
+      "id": "emp_10",
+      "name": "Priya",
+      "roolNo": "11"
+
+    },
+    {
+      "id": "emp_20",
+      "name": "Bhavya",
+      "roolNo": "22"
+
+    },
+    {
+      "id": "emp_30",
+      "name": "Shreya",
+      "roolNo": "33"
+
+    },
+    {
+      "id": "emp_40",
+      "name": "Soumya",
+      "roolNo": "44"
+
+    }
+  ]
+}
